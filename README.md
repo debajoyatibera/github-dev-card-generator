@@ -9,6 +9,7 @@ This project was built using FastAPI, Python, and frontend technologies to creat
 https://github-card-frontend-263881708620.us-central1.run.app/
 
 ---
+Deployed using **Google Cloud Platform (GCP)** 🚀
 
 ## ✨ Features
 
