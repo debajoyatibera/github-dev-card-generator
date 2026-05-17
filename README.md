@@ -101,7 +101,6 @@ uvicorn main:app --reload
 
 - Dark mode support
 - More card themes
-- Download as PNG
 - Better animations
 - Authentication support
 
